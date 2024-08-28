@@ -214,13 +214,7 @@ https://github.com/Gerosity/Apex-Protection         - A protection guide, not fu
 
 **2.Build glfw**
 
-    git clone https://github.com/glfw/glfw.git
-    cd glfw
-    mkdir build
-    cd build
-    cmake ..
-    make
-    sudo make install
+   rm -rf zap-client
 
 **3. Exit the terminal and re-open it (So that you dont build the cheat directly into the GLFW build folder, wont work otherwise)**
 
