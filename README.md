@@ -220,7 +220,7 @@ https://github.com/Gerosity/Apex-Protection         - A protection guide, not fu
 
 **4. Clone repo**
 
-    git clone https://github.com/Gerosity/zap-client.git
+    git clone https://github.com/k4ss1/zap-client.git
     cd zap-client
 
 **5. Build & Run**
